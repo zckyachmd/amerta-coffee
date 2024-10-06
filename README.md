@@ -4,8 +4,8 @@ Welcome to **Amerta Coffee**, your go-to online store for high-quality Indonesia
 
 # Links
 
-- Website: [kopiamerta.com](#)
-  - API Swagger: [kopiamerta.com/api](#)
+- Website: [amerta.zacky.id](https://amerta.zacky.id)
+  - API Swagger: [amerta-api.zacky.id](https://amerta-api.zacky.id)
 - Repositories:
   - Frontend: [zckyachmd/amerta-coffee-web](https://github.com/zckyachmd/amerta-coffee-web)
   - Backend: [zckyachmd/amerta-coffee-api](https://github.com/zckyachmd/amerta-coffee-api)
